@@ -17,10 +17,3 @@ To run the Quick Fill app on your local machine, you need to have the following 
 - Dart SDK
 - Android Studio / Xcode (for Android / iOS development environment setup)
 
-## Youtube demo video
-- https://youtu.be/0TV4q3O2y-I?si=SOdHzIi5DJ6aUYlC
-
-
-## Project built during DevIgnite hackathon organised at SIGCE, Ghansoli
-## Team- GFC
-## Team members- Vedant Pawar, Soham Tawade, Sanika Hadap
